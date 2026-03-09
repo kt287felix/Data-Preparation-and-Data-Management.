@@ -78,4 +78,3 @@ If you're working on similar projects or breaking into data analytics, feel free
 
 ---
 
-*#PowerBI #DataAnalytics #DataPreparation #BusinessIntelligence #AdventureWorks #PowerQuery #DataTransformation*
