@@ -66,7 +66,7 @@ Breaking into data analytics means mastering the **fundamentals before the flash
 
 ## 🎬 Project Walkthrough
 
-> A full video walkthrough of the data cleaning, merging, and transformation process is available on LinkedIn — covering how raw supplier data was shaped into actionable insights for Adventure Works.
+> A full video walkthrough of the data cleaning, merging, and transformation process is available on the files uploaded— covering how raw supplier data was shaped into actionable insights for Adventure Works.
 
 ---
 
